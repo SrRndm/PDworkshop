@@ -1,0 +1,7 @@
+#N canvas 339 322 450 300 12;
+#X text 21 17 seequencer;
+#X text 32 41 oscilloscope;
+#X text 41 64 delay;
+#X text 48 96 audio player;
+#X text 54 121 click generator;
+#X text 63 146 envgen;
